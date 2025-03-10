@@ -2,7 +2,7 @@ from setuptools import setup, find_packages
 
 setup(
     name='mytoolset',
-    version='0.0.2',
+    version='0.0.3',
     description='wget & pydockerNpygit2 env is my tool set',
     author='du7ec',
     author_email='dutec6834@gmail.com',
