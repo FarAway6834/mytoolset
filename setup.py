@@ -3,7 +3,7 @@ from setuptools import setup, find_packages
 setup(
     name='mytoolset',
     version='0.0.1',
-    description='',
+    description='wget & pydockerNpygit2 env is my tool set',
     author='du7ec',
     author_email='dutec6834@gmail.com',
     url='https://github.com/FarAway6834/mytoolset',
