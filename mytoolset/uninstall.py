@@ -14,7 +14,7 @@ _rm_wget = lambda f = _pip_uninstall() : f('wget')
 _rm_pydockerNpygit2 = lambda f = _r('python -m pydockerNpygit2.uninstall') : f()
 
 def main():
-    _rm_self()
+    _e(_rm_self)
     _rm_wget()
     _rm_pydockerNpygit2()
 
