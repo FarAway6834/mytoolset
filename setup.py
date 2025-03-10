@@ -8,7 +8,7 @@ setup(
     author_email='dutec6834@gmail.com',
     url='https://github.com/FarAway6834/mytoolset',
     packages=find_packages(exclude=[]),
-    install_requires=['wget', 'dockerNpygit2'],
+    install_requires=['wget', 'pydockerNpygit2'],
     keywords=['py', 'docker', 'pydocker', 'and', 'N', 'n', '&', 'pygit', 'git', 'pygit2', 'pydockerNpygit2', 'dockerNpygit2', 'docker&git', 'wget', 'pywget', 'my', 'tooo', 'set', 'mytool', 'mytoolset', 'toolset', 'tools', 'mytools'],
     python_requires='>=3.4',
     package_data={},
